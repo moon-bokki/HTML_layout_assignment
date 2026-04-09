@@ -1,5 +1,28 @@
-h1{
-color: rgb(49, 3, 41);
 
 
-}
+
+*{box-sizing: border-box;
+padding: 0;
+margin: 0;  }
+
+
+.logo{
+color: aliceblue; }
+
+.site-top{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px; }
+
+.top-nav a{
+ color: aliceblue; }
+
+.site-header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(245, 237, 237);
+    padding: 10px; }
+
+.site-nav{
+    padding: 10px; }
